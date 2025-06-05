@@ -30,7 +30,7 @@ The first step I took was to open the Windows Server 10 operating system, where 
 
 Next, I navigated to the folder containing the user account I wanted to unlock, selected the account, and proceeded to unlock it.
 
-<img src="https://i.imgur.com/lOs1rJk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wpX7ZWY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Next time I attempt to log in, I should be able to access the account without any issues.
 
